@@ -1,0 +1,2 @@
+{:+ {:app [(:lt.objs.plugins/load-js ["test_compiled.js"])]
+     :lt-test.hello [:lt.plugins.lt-test/on-close-destroy]}}

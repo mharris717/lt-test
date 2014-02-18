@@ -1,0 +1,6 @@
+{:name "Test"
+ :version "0.0.1"
+ :author "mharris717"
+ :source "https://github.com/mharris717/lt_test"
+ :desc "Gives a live Test in a second tab"
+ :behaviors "lt_test.behaviors"}
